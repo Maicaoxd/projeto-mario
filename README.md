@@ -1,4 +1,5 @@
 # Projeto-Mario
+
 ## Objetivo
 
 Este projeto possui como objetivo apresentar o trailer do filme Super Mario Bros. O Filme, que será lançado no dia 30 de março de 2023.
@@ -11,17 +12,20 @@ No projeto foram utilizados a base do HTML, estilizada com CSS com a parte de ba
 ## Como utilizar
 
 1 - Clone para o projeto
-'''
+
+```
 git clone https://github.com/Maicaoxd/projeto-mario.git
-'''
+```
+
 2 - Acesse a pasta do projeto
-'''
+
+```
 cd projeto-mario
-'''
-# projeto-mario
-Repositório do projeto do filme Mario
+```
 
 ## Autor
-Maicon A. Guedes.
+Maicon A. Guedes. 
+
 São Paulo, Brasil.
+
 30 de janeiro de 2023.
